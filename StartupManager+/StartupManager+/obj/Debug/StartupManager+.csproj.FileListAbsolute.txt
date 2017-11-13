@@ -1,0 +1,10 @@
+C:\Users\Erik\Documents\Visual Studio 2017\Projects\StartupManager+\StartupManager+\bin\Debug\StartupManager+.exe.config
+C:\Users\Erik\Documents\Visual Studio 2017\Projects\StartupManager+\StartupManager+\bin\Debug\StartupManager+.exe
+C:\Users\Erik\Documents\Visual Studio 2017\Projects\StartupManager+\StartupManager+\bin\Debug\StartupManager+.pdb
+C:\Users\Erik\Documents\Visual Studio 2017\Projects\StartupManager+\StartupManager+\obj\Debug\StartupManager+.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Documents\Visual Studio 2017\Projects\StartupManager+\StartupManager+\obj\Debug\StartupManager_.Form1.resources
+C:\Users\Erik\Documents\Visual Studio 2017\Projects\StartupManager+\StartupManager+\obj\Debug\StartupManager_.Properties.Resources.resources
+C:\Users\Erik\Documents\Visual Studio 2017\Projects\StartupManager+\StartupManager+\obj\Debug\StartupManager+.csproj.GenerateResource.Cache
+C:\Users\Erik\Documents\Visual Studio 2017\Projects\StartupManager+\StartupManager+\obj\Debug\StartupManager+.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Documents\Visual Studio 2017\Projects\StartupManager+\StartupManager+\obj\Debug\StartupManager+.exe
+C:\Users\Erik\Documents\Visual Studio 2017\Projects\StartupManager+\StartupManager+\obj\Debug\StartupManager+.pdb
